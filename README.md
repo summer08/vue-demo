@@ -1,6 +1,7 @@
-# water
+# vue脚手架搭建项目
 
-> A Vue.js project
+> 项目中封装了axios异步请求以及使用了vantUi库
+需要注意的是项目中使用了代理，clone下拉的时候需要按需更改
 
 ## Build Setup
 
